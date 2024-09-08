@@ -1,0 +1,22 @@
+{
+    "name": "your-vendor/lorem-generator",
+    "description": "A simple Lorem Ipsum generator for Laravel.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "YourVendor\\LoremGenerator\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "YourVendor\\LoremGenerator\\LoremGeneratorServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
