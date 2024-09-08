@@ -17,6 +17,13 @@
             ]
         }
     },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khaled Mohammed",
+            "email": "khaled.1m2h3o@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
