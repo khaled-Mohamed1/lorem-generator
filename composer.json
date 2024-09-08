@@ -1,5 +1,5 @@
 {
-    "name": "your-vendor/lorem-generator",
+    "name": "KhMohDev/lorem-generator",
     "description": "A simple Lorem Ipsum generator for Laravel.",
     "type": "library",
     "autoload": {
